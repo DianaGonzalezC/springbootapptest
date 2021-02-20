@@ -1,0 +1,8 @@
+com/diana/controller/ThemeParkRideController.java
+ com.diana.controller.ThemeParkRideController
+com/diana/entity/ThemeParkRide.java
+ com.diana.entity.ThemeParkRide
+com/diana/repository/ThemeParkRideRepository.java
+ com.diana.repository.ThemeParkRideRepository
+com/diana/ThemeParkApplication.java
+ com.diana.ThemeParkApplication
